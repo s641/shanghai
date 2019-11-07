@@ -1,0 +1,164 @@
+@charset "utf-8";
+.content {
+  padding-top: 100px;
+  /*banner*/
+  /*内容展示*/
+}
+.content .banner {
+  width: 100%;
+  height: auto;
+}
+.content .banner .container-fluid .row > div {
+  padding: 0px;
+}
+.content .main {
+  padding-top: 42px;
+}
+.content .main .sub-title h3 {
+  color: #223b5a;
+  font-size: 30px;
+  line-height: 65px;
+  font-weight: bold;
+}
+.content .main .sub-title .line {
+  width: 5%;
+  height: 2px;
+  margin: 0px auto;
+  background: #223b5a;
+}
+.content .main .sub-title p {
+  margin-top: 36px;
+  line-height: 30px;
+  color: #7d7d7d;
+  font-size: 18px;
+}
+.content .main .key .container .row {
+  margin-top: 32px;
+}
+.content .main .key .container .row > div {
+  margin-bottom: 85px;
+}
+.content .main .key .container .row > div span {
+  width: 35px;
+  height: 35px;
+  display: inline-block;
+  float: left;
+  margin-left: 25%;
+  background: url(../img/gou.png) no-repeat;
+}
+.content .main .key .container .row > div p {
+  float: left;
+  font-size: 18px;
+  line-height: 35px;
+  text-indent: 30px;
+  color: #0b1730;
+  font-weight: bold;
+}
+.content .main .key .container .row > div:nth-of-type(3) span {
+  margin-left: 15%;
+}
+.content .main .supplier .container {
+  height: auto;
+  background: url(../img/black-and-white-image-of-city-skyline.jpg) no-repeat;
+}
+.content .main .supplier .container .row {
+  color: white;
+}
+.content .main .supplier .container .row > div {
+  background: #223b5a;
+}
+.content .main .supplier .container .row > div h2 {
+  font-size: 27px;
+  margin-bottom: 12px;
+  margin-top: 32px;
+}
+.content .main .supplier .container .row > div ul li {
+  line-height: 26px;
+  list-style: disc;
+  text-indent: 12px ;
+}
+.content .main .supplier .container .row > div ul li:nth-of-type(4) {
+  margin-bottom: 32px;
+}
+.content .main .supplier .container .row:nth-of-type(2) > div:nth-of-type(1) ul li:nth-of-type(2) {
+  margin-bottom: 32px;
+}
+.content .main .supplier .container .row:nth-of-type(2) > div:nth-of-type(2) ul li:nth-of-type(1) {
+  margin-bottom: 32px;
+}
+.content .main .recuit .container .row {
+  width: 100%;
+  margin-top: 53px;
+  /*&>div{
+						position: relative;
+						z-index: 100;
+						input{
+							width:100%;
+							height:76px;
+						}
+						input::placeholder{
+							color: #223b5a;
+							font-size: 22px;
+						}
+					}
+					.line{
+						width: 1px;
+						height:750px;
+						background: #d0d0d0;
+						position: relative;
+						z-index: -5;
+						float: left;
+						margin-left:50%;
+					}
+					l{
+						border-left-color: #fcfcfc;
+						border-width: 9px 0px 10px 9px;
+						border-color: rgba(255,255,255,0) #d0d0d0;
+						border-style: solid;
+						display: block;
+						position: relative;
+						left: 50%;
+						top: 68px;
+					}
+					l:nth-of-type(2){
+						border-left-color: #fcfcfc;
+						border-width: 9px 9px 10px 0px;
+						border-color: rgba(255,255,255,0) #d0d0d0;
+						border-style: solid;
+						display: inline-block;
+						position: relative;
+						left: -11px;
+						top: -8px;
+					}*/
+}
+.content .main .recuit .container .row > div img {
+  width: 100%;
+  height: auto;
+}
+.content .main .position {
+  margin-top: 30px;
+}
+.content .main .position h4 {
+  line-height: 82px;
+  text-indent: 90px;
+  color: #223b5a;
+  font-weight: bold;
+  background: -webkit-linear-gradient(left, #ffffff, #e7edf3, #ffffff);
+  background: -moz-linear-gradient(left, #ffffff, #e7edf3, #ffffff);
+  background: -ms-linear-gradient(left, #ffffff, #e7edf3, #ffffff);
+}
+.content .main .position > ul {
+  font-size: 16px;
+  color: #7d7d7d;
+  padding-left: 90px;
+}
+.content .main .position > ul > li {
+  line-height: 50px;
+  list-style: disc;
+}
+.content .main .position > ul > li > ul > li {
+  line-height: 30px;
+}
+.content .main .position > ul > li > ul > li:last-child {
+  margin-bottom: 15px;
+}

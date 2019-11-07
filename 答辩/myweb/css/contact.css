@@ -1,0 +1,81 @@
+@charset "utf-8";
+.content {
+  padding-top: 100px;
+  /*内容展示*/
+}
+.content .main {
+  padding-top: 82px;
+}
+.content .main .container .row {
+  width: 80%;
+  margin-left: 10%;
+}
+.content .main .container .row h3 {
+  font-size: 32px;
+  color: #676b6d;
+  line-height: 42px;
+}
+.content .main .container .row p {
+  font-size: 15px;
+  color: #676b6d;
+  line-height: 102px;
+  margin-bottom: 60px;
+  border-bottom: 1px solid #ebebeb;
+}
+.content .main .container .row > div {
+  margin: 0px 0px 90px;
+  padding: 0px;
+}
+.content .main .container .row > div div img {
+  width: 103px;
+  height: 107px;
+  margin-left: 25%;
+}
+.content .main .container .row > div div h6 {
+  color: #676b6d;
+  font-size: 15px;
+  margin-top: 40px;
+  text-align: center;
+  text-align: -moz-center;
+}
+.content .main .container .row > div:nth-of-type(4) div img {
+  width: 28px;
+  height: 107px;
+  margin-left: 43%;
+}
+.content .main .container .row > div:nth-of-type(5),
+.content .main .container .row > div:nth-of-type(6) {
+  margin: 0px 0px 90px;
+}
+.content .main .container .row > div:nth-of-type(5) div,
+.content .main .container .row > div:nth-of-type(6) div {
+  width: 100%;
+}
+.content .main .container .row > div:nth-of-type(5) div h5,
+.content .main .container .row > div:nth-of-type(6) div h5 {
+  width: 50%;
+  margin: 0px auto;
+  font-size: 14px;
+  color: #676b6d;
+  line-height: 71px;
+  border-bottom: 1px solid #ebebeb;
+}
+.content .main .container .row > div:nth-of-type(5) div p,
+.content .main .container .row > div:nth-of-type(6) div p {
+  font-size: 12px;
+  color: #676b6d;
+  line-height: 36px;
+  margin: 0px;
+  border-bottom: none;
+}
+@media (max-width: 768px) {
+  .content {
+    /*内容展示*/
+  }
+  .content .main .container .row > div div img {
+    margin-left: 40%;
+  }
+  .content .main .container .row > div:nth-of-type(4) div img {
+    margin-left: 47%;
+  }
+}

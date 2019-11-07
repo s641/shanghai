@@ -1,0 +1,81 @@
+@charset "utf-8";
+.content {
+  padding-top: 100px;
+  /*banner*/
+  /*内容展示*/
+}
+.content .banner {
+  width: 100%;
+  height: auto;
+  background: url(../img/教育与培训-banner.jpg) no-repeat;
+  background-size: cover;
+  padding: 89px 0px;
+}
+.content .banner .container-fluid .row > div {
+  color: white;
+  text-indent: 95px;
+}
+.content .banner .container-fluid .row > div h3 {
+  font-size: 30px;
+  line-height: 56px;
+  margin-bottom: 26px;
+}
+.content .banner .container-fluid .row > div p {
+  font-size: 15px;
+  line-height: 25px;
+}
+.content .main {
+  padding-top: 106px;
+}
+.content .main .container .row {
+  padding: 0px 213px;
+  margin: 0px 0px 113px;
+}
+.content .main .container .row > div div {
+  height: 127px;
+  text-indent: 125px;
+  border: 1px solid #f3f3f3;
+  position: relative;
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+.content .main .container .row > div div:hover {
+  border: 3px solid #949393;
+}
+.content .main .container .row > div div span {
+  position: absolute;
+  top: -2px;
+  left: -64px;
+  width: 128px;
+  height: 128px;
+  background: url(../img/大数据公开课-logo.png) no-repeat;
+  border-radius: 50%;
+  display: inline-block;
+}
+.content .main .container .row > div div h4 {
+  font-size: 20px;
+  color: #dc5263;
+  margin-bottom: 24px;
+}
+.content .main .container .row > div div p {
+  font-size: 16px;
+  color: #8b8b8b;
+}
+.content .main .container .row > div:nth-of-type(2) div span {
+  background: url(../img/商业分析课-logo.png) no-repeat;
+}
+.content .main .container .row > div:nth-of-type(2) div h4 {
+  color: #e9a62a;
+}
+.content .main .container .row > div:nth-of-type(3) div span {
+  background: url(../img/数据挖掘课程-logo.png) no-repeat;
+}
+.content .main .container .row > div:nth-of-type(3) div h4 {
+  color: #72a941;
+}
+.content .main .container .row > div:nth-of-type(4) div span {
+  background: url(../img/定制化课程-logo.png) no-repeat;
+}
+.content .main .container .row > div:nth-of-type(4) div h4 {
+  color: #627cb7;
+}

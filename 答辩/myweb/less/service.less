@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+.content{
+	padding-top:100px;
+	/*banner*/
+	.banner{
+		width:100%;
+		height: auto;
+		background:url(../img/大数据产品banner背景.png) no-repeat;
+		background-size:cover;
+		padding:26px 0px 65px;
+		.container-fluid{
+			.row{
+				&>div{
+					color:white;
+					h3{
+						margin: 0px auto;
+						width: 120px;
+						font-size: 30px;
+						line-height: 56px;
+						border-bottom: 1px solid white;
+					}
+					p{
+						margin-top: 26px;
+						font-size:15px;
+						line-height: 25px;
+					}
+				}
+			}
+		}
+	}
+	/*内容展示*/
+	.main{
+		padding-top:118px;
+		.container{
+			.row{
+				&>div{
+						width: 30%;
+						min-width: 340px;
+						padding: 0px;
+						background: url(../img/企业绩效管理咨询服务.png) no-repeat;
+						background-size:cover;
+						margin:0px 19px 102px;
+					div{
+						width: 100%;
+						height: 244px;
+						position:relative;
+						span{
+							position: absolute;
+							font-size: 32px;
+							left:45%;
+							top:45%;
+							color: white;
+							display:none;
+						}
+						&:hover{
+							background: rgba(72,164,225,0.3);
+							span{
+								display: block;
+							}
+						}
+					}
+				}
+				&>div:nth-of-type(2){
+					background: url(../img/IT-咨询服务.png) no-repeat;
+					background-size:cover;
+				}
+				&>div:nth-of-type(3){
+					background: url(../img/主数据管理服务.png) no-repeat;
+					background-size:cover;
+				}
+				&>div:nth-of-type(4){
+					background: url(../img/商业智能服务.png) no-repeat;
+					background-size:cover;
+				}
+				&>div:nth-of-type(5){
+					background: url(../img/基于大数据的数据集成服务.png) no-repeat;
+					background-size:cover;
+				}
+				&>div:nth-of-type(6){
+					background: url(../img/基于大数据技术的企业数仓服务.png) no-repeat;
+					background-size:cover;
+				}
+				&>div:nth-of-type(7){
+					background: url(../img/dashujufenxi.png) no-repeat;
+					background-size:cover;
+				}
+			}
+		}
+	}
+}
+@media (max-width: 768px) {
+	.content{
+		/*内容展示*/
+		.main{
+			padding-top:118px;
+			.container{
+				.row{
+					&>div{
+						margin:0px 25% 102px;
+					}
+				}
+			}
+		}
+	}
+}
+@media all and (max-width: 1029px) and (min-width:768px) {
+	.content{
+		/*内容展示*/
+		.main{
+			padding-top:118px;
+			.container{
+				.row{
+					&>div{
+						margin:0px 25% 102px;
+					}
+				}
+			}
+		}
+	}
+}
+@media all and (max-width: 1200px) and (min-width:1029px) {
+	.content{
+		/*内容展示*/
+		.main{
+			padding-top:118px;
+			.container{
+				.row{
+					&>div{
+						margin:0px 7% 102px;
+					}
+				}
+			}
+		}
+	}
+}

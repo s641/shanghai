@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+.content{
+	padding-top:100px;
+	/*内容展示*/
+	.main{
+		padding-top:82px;
+		.container{
+			.row{
+				width:80%;
+				margin-left:10%;
+				h3{
+					font-size: 32px;
+					color: #676b6d;
+					line-height: 102px;
+					margin-bottom: 60px;
+					border-bottom: 1px solid #ebebeb;
+				}
+				&>div{
+					margin:0px 30px 90px 0px;
+					div{
+						width:100%;
+						img{
+							width:100%;
+							height:auto;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+@media (max-width: 768px) {
+	.content{
+		/*内容展示*/
+		.main{
+			padding-top:118px;
+			.container{
+				.row{
+					&>div{
+						margin:0px 10px 90px 0px;
+					}
+				}
+			}
+		}
+	}
+}
+@media all and (max-width: 1029px) and (min-width:768px) {
+	.content{
+		/*内容展示*/
+		.main{
+			padding-top:118px;
+			.container{
+				.row{
+					&>div{
+						margin:0px 19px 90px 0px;
+					}
+				}
+			}
+		}
+	}
+}
+@media all and (max-width: 1200px) and (min-width:1029px) {
+	.content{
+		/*内容展示*/
+		.main{
+			.container{
+				.row{
+					&>div{
+						margin:0px 19px 90px 0px;
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<!--[if lt IE 10 ]>
+<html lang="zh-CN" class="old-ie no-js">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="zh-CN" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://www.analyticservice.net/xmlrpc.php" />
+	<!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<title>未找到页面 &#8211; 上海音智达信息技术有限公司</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="上海音智达信息技术有限公司 &raquo; Feed" href="http://www.analyticservice.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="上海音智达信息技术有限公司 &raquo; 评论Feed" href="http://www.analyticservice.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.analyticservice.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.11"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='BEEPRESSCSS-css'  href='http://www.analyticservice.net/wp-content/plugins/beepress/lib/beepress.css?ver=4.3.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.analyticservice.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.analyticservice.net/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.5.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='tablepress-default-css'  href='http://www.analyticservice.net/wp-content/plugins/tablepress/css/default.min.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css'  href='http://www.analyticservice.net/wp-content/themes/dt-the7/css/main.min.css?ver=5.4.1' type='text/css' media='all' />
+<style id='dt-main-inline-css' type='text/css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: all .35s ease-out;
+  transition: all .35s ease-out;
+}
+body #load.loader-removed {
+  opacity: 0;
+  visibility: hidden;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+#load {
+  background-color: rgba(46,221,237,0.96);
+  background: rgba(46,221,237,0.96);
+  background: -webkit-linear-gradient(30deg,rgba(46,221,237,0.96) 0%,rgba(0,132,187,0.96) 100%);
+  background: linear-gradient(30deg,rgba(46,221,237,0.96) 0%,rgba(0,132,187,0.96) 100%);
+}
+.uil-default rect:not(.bk) {
+  fill: #ffffff;
+}
+.uil-ring > path {
+  fill: #ffffff;
+}
+.ring-loader .circle {
+  fill: #ffffff;
+}
+.ring-loader .moving-circle {
+  fill: #ffffff;
+}
+.uil-hourglass .glass {
+  stroke: #ffffff;
+}
+.uil-hourglass .sand {
+  fill: #ffffff;
+}
+.spinner-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg width='75px' height='75px' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid' class='uil-default'%3E%3Crect x='0' y='0' width='100' height='100' fill='none' class='bk'%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(0 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(30 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(60 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(90 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(120 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(150 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(180 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(210 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(240 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(270 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(300 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='%23ffffff' transform='rotate(330 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E");
+}
+.ring-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%23ffffff'%3E   %3Cpath opacity='.25' d='M16 0 A16 16 0 0 0 16 32 A16 16 0 0 0 16 0 M16 4 A12 12 0 0 1 16 28 A12 12 0 0 1 16 4'/%3E   %3Cpath d='M16 0 A16 16 0 0 1 32 16 L28 16 A12 12 0 0 0 16 4z'%3E     %3CanimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='0.8s' repeatCount='indefinite' /%3E   %3C/path%3E %3C/svg%3E");
+}
+.hourglass-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='%23ffffff'%3E   %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E      %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E %3C/svg%3E");
+}
+
+</style>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='dt-old-ie-css'  href='http://www.analyticservice.net/wp-content/themes/dt-the7/css/old-ie.min.css?ver=5.4.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dt-awsome-fonts-css'  href='http://www.analyticservice.net/wp-content/themes/dt-the7/fonts/FontAwesome/css/font-awesome.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-fontello-css'  href='http://www.analyticservice.net/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-arrow-icons-css'  href='http://www.analyticservice.net/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the7pt-static-css'  href='http://www.analyticservice.net/wp-content/themes/dt-the7/css/post-type.css?ver=5.4.1' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='dt-custom-old-ie.less-css'  href='http://www.analyticservice.net/wp-content/uploads/wp-less/dt-the7/css/custom-old-ie-8a4a5b3796.css?ver=5.4.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dt-custom.less-css'  href='http://www.analyticservice.net/wp-content/uploads/wp-less/dt-the7/css/custom-8a4a5b3796.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media.less-css'  href='http://www.analyticservice.net/wp-content/uploads/wp-less/dt-the7/css/media-8a4a5b3796.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the7pt.less-css'  href='http://www.analyticservice.net/wp-content/uploads/wp-less/dt-the7/css/post-type-dynamic-8a4a5b3796.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-legacy.less-css'  href='http://www.analyticservice.net/wp-content/uploads/wp-less/dt-the7/css/legacy-8a4a5b3796.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.analyticservice.net/wp-content/themes/dt-the7/style.css?ver=5.4.1' type='text/css' media='all' />
+<style id='style-inline-css' type='text/css'>
+/*breadcrumbs background color*/
+.page-title .breadcrumbs {
+background-color: rgba(0, 0, 0, 0.05);
+}
+
+.ih-item.circle.effect1 .spinner {
+border: 10px solid #0978B2;
+    border-right-color: #081730;
+    border-bottom-color: #081730;
+
+
+}
+.title_1 {
+text-color: #fff;
+}
+
+
+
+#main {
+    padding-bottom: 0px;
+}
+
+.mini-search
+{
+
+    height: 30px;
+
+}
+
+
+</style>
+<link rel='stylesheet' id='bsf-Defaults-css'  href='http://www.analyticservice.net/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.9.11' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.analyticservice.net/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-content/plugins/beepress/lib/beepress-pro.js?ver=4.3.0'></script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.5.1'></script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"http:\/\/www.analyticservice.net\/wp-content\/themes\/dt-the7","passText":"\u8981\u67e5\u770b\u6b64\u52a0\u5bc6\u6587\u7ae0\uff0c\u8bf7\u5728\u4e0b\u9762\u8f93\u5165\u5bc6\u7801\uff1a","moreButtonText":{"loading":"\u52a0\u8f7d\u4e2d...","loadMore":"\u52a0\u8f7d\u66f4\u591a"},"postID":null,"ajaxurl":"http:\/\/www.analyticservice.net\/wp-admin\/admin-ajax.php","contactNonce":"0d56615e61","contactMessages":{"required":"\u4e00\u4e2a\u6216\u591a\u4e2a\u5b57\u6bb5\u6709\u9519\u8bef\u3002 \u8bf7\u68c0\u67e5\u5e76\u91cd\u8bd5\u3002"},"ajaxNonce":"c0b736862e","pageData":"","themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"gradient","color":["#0ca2e0","#27dde8"]},"floatingHeader":{"showAfter":140,"showMenu":false,"height":60,"logo":{"showLogo":true,"html":"","url":"http:\/\/www.analyticservice.net\/"}},"mobileHeader":{"firstSwitchPoint":1040,"secondSwitchPoint":800},"content":{"textColor":"#676b6d","headerColor":"#262b2e"},"stripes":{"stripe1":{"textColor":"#676b6d","headerColor":"#262b2e"},"stripe2":{"textColor":"#ffffff","headerColor":"#ffffff"},"stripe3":{"textColor":"#262b2e","headerColor":"#262b2e"}}},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"\u5206\u4eab\u5230 Facebook","twitter":"Tweet","pinterest":"\u8ba2\u5b83","linkedin":"\u5206\u4eab\u5230Linkedin","whatsapp":"\u5206\u4eab\u5230WhatsApp","google":"\u5206\u4eab\u5230\u8c37\u6b4c\u52a0","download":"\u4e0b\u8f7d\u56fe\u7247"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=5.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.analyticservice.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.analyticservice.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.analyticservice.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.11" />
+<meta property="og:site_name" content="上海音智达信息技术有限公司" />
+<meta property="og:type" content="object" />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.analyticservice.net/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.analyticservice.net/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.5.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { 
+	var $load = document.getElementById("load");
+	
+	var removeLoading = setTimeout(function() {
+		$load.className += " loader-removed";
+	}, 500);
+});
+</script>
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- 新 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+<script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<div style="display:none">
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1259451758'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1259451758' type='text/javascript'%3E%3C/script%3E"));</script>
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b67665aafc1677141e15264000520f30";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</div>
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//120.132.8.60/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Mautic -->
+<script>
+    (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+        m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','http://120.132.22.187/mtc.js','mt');
+
+    mt('send', 'pageview');
+</script>
+<!-- End Mautic Code -->
+
+</head>
+<body class="error404 large-hover-icons click-effect-on-img dt-responsive-on overlay-cursor-on accent-gradient srcset-enabled btn-flat custom-btn-color custom-btn-hover-color accent-bullets bold-icons floating-mobile-menu-icon top-header first-switch-logo-center first-switch-menu-left second-switch-logo-center second-switch-menu-left layzr-loading-on no-avatars wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive semitransparent-portfolio-icons album-minuatures-style-2">
+<!-- The7 5.4.1 -->
+<div id="load" class="spinner-loader">
+	<div class="load-wrap"></div>
+</div>
+<div id="page">
+	<a class="skip-link screen-reader-text" href="#content">跳过内容</a>
+
+<div class="masthead inline-header right full-height shadow-decoration show-mobile-logo" role="banner">
+
+	
+	<header class="header-bar">
+
+						<div class="branding">
+					<div id="site-title" class="assistive-text">上海音智达信息技术有限公司</div>
+					<div id="site-description" class="assistive-text">官方网站</div>
+					<a href="http://www.analyticservice.net/"><img class=" preload-me" src="http://www.analyticservice.net/wp-content/uploads/2016/06/logo-e1469776092665.png" srcset="http://www.analyticservice.net/wp-content/uploads/2016/06/logo-e1469776092665.png 116w" width="116" height="50"   sizes="116px" alt="上海音智达信息技术有限公司" /></a>
+					
+
+					
+					
+				</div>		
+		
+		
+
+
+<ul id="primary-menu" class="main-nav underline-decoration from-centre-line gradient-hover level-arrows-on outside-item-remove-margin" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20 first"><a target="_blank"  href='http://www.analyticservice.net/' data-level='1'><span class="menu-item-text"><span class="menu-text">主页</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a target="_blank"  href='http://www.analyticservice.net/%e5%ae%9e%e6%96%bd%e6%9c%8d%e5%8a%a1/' data-level='1'><span class="menu-item-text"><span class="menu-text">实施服务</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a target="_blank"  href='http://www.analyticservice.net/%e8%a1%8c%e4%b8%9a%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/' data-level='1'><span class="menu-item-text"><span class="menu-text">行业解决方案</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3111"><a target="_blank"  href='http://www.analyticservice.net/%e5%a4%a7%e6%95%b0%e6%8d%ae%e4%ba%a7%e5%93%81/' data-level='1'><span class="menu-item-text"><span class="menu-text">大数据产品</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a target="_blank"  href='http://www.analyticservice.net/%e6%95%99%e8%82%b2%e4%b8%8e%e5%9f%b9%e8%ae%ad/' data-level='1'><span class="menu-item-text"><span class="menu-text">教育与培训</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 has-children"><a target="_blank"  href='http://www.analyticservice.net/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/' class='not-clickable-item' data-level='1'><span class="menu-item-text"><span class="menu-text">关于我们</span></span></a><span class="icic"><i></i></span><ul class="sub-nav gradient-hover hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57 first"><a target="_blank"  href='http://www.analyticservice.net/%e5%85%ac%e5%8f%b8%e4%bb%8b%e7%bb%8d/' data-level='2'><span class="menu-item-text"><span class="menu-text">公司介绍</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a target="_blank"  href='http://www.analyticservice.net/%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/' data-level='2'><span class="menu-item-text"><span class="menu-text">合作伙伴</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a target="_blank"  href='http://www.analyticservice.net/%e8%81%94%e7%b3%bb%e6%88%91%e4%bb%ac/' data-level='2'><span class="menu-item-text"><span class="menu-text">联系我们</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3020"><a target="_blank"  href='http://www.analyticservice.net/2019xiaozhao/' data-level='2'><span class="menu-item-text"><span class="menu-text">2019校园招聘</span></span></a><span class="icic"><i></i></span></li> </ul></li> </ul>
+		
+
+	</header>
+
+</div><div class='dt-close-mobile-menu-icon'><span></span></div>
+<div class='dt-mobile-header'>
+	<ul id="mobile-menu" class="mobile-main-nav" role="menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20 first"><a target="_blank"  href='http://www.analyticservice.net/' data-level='1'><span class="menu-item-text"><span class="menu-text">主页</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a target="_blank"  href='http://www.analyticservice.net/%e5%ae%9e%e6%96%bd%e6%9c%8d%e5%8a%a1/' data-level='1'><span class="menu-item-text"><span class="menu-text">实施服务</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a target="_blank"  href='http://www.analyticservice.net/%e8%a1%8c%e4%b8%9a%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/' data-level='1'><span class="menu-item-text"><span class="menu-text">行业解决方案</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3111"><a target="_blank"  href='http://www.analyticservice.net/%e5%a4%a7%e6%95%b0%e6%8d%ae%e4%ba%a7%e5%93%81/' data-level='1'><span class="menu-item-text"><span class="menu-text">大数据产品</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a target="_blank"  href='http://www.analyticservice.net/%e6%95%99%e8%82%b2%e4%b8%8e%e5%9f%b9%e8%ae%ad/' data-level='1'><span class="menu-item-text"><span class="menu-text">教育与培训</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 has-children"><a target="_blank"  href='http://www.analyticservice.net/%e5%85%b3%e4%ba%8e%e6%88%91%e4%bb%ac/' class='not-clickable-item' data-level='1'><span class="menu-item-text"><span class="menu-text">关于我们</span></span></a><span class="icic"><i></i></span><ul class="sub-nav gradient-hover hover-style-click-bg"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57 first"><a target="_blank"  href='http://www.analyticservice.net/%e5%85%ac%e5%8f%b8%e4%bb%8b%e7%bb%8d/' data-level='2'><span class="menu-item-text"><span class="menu-text">公司介绍</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a target="_blank"  href='http://www.analyticservice.net/%e5%90%88%e4%bd%9c%e4%bc%99%e4%bc%b4/' data-level='2'><span class="menu-item-text"><span class="menu-text">合作伙伴</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a target="_blank"  href='http://www.analyticservice.net/%e8%81%94%e7%b3%bb%e6%88%91%e4%bb%ac/' data-level='2'><span class="menu-item-text"><span class="menu-text">联系我们</span></span></a><span class="icic"><i></i></span></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3020"><a target="_blank"  href='http://www.analyticservice.net/2019xiaozhao/' data-level='2'><span class="menu-item-text"><span class="menu-text">2019校园招聘</span></span></a><span class="icic"><i></i></span></li> </ul></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+			<div class="page-title title-center solid-bg breadcrumbs-off">
+			<div class="wf-wrap">
+				<div class="wf-container-title">
+					<div class="wf-table">
+
+						<div class="wf-td hgroup"><h1 >找不到页面</h1></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+	
+	<div id="main" class="sidebar-none sidebar-divider-vertical"  >
+
+		
+		<div class="main-gradient"></div>
+		<div class="wf-wrap">
+			<div class="wf-container-main">
+
+				
+	
+			<!-- Content -->
+			<div id="content" class="content" role="main" style="min-height: 500px; text-align:center">
+
+				<article id="post-0" class="post error404 not-found">
+
+					<h1 class="entry-title">糟糕！页面没找到</h1>
+
+					<p>似乎在这个位置没有找到。 请尝试使用下面的搜索框：</p>
+
+						<form class="searchform" role="search" method="get" action="http://www.analyticservice.net/">
+		<label for="search" class="screen-reader-text">搜索：</label>
+		<input type="text" class="field searchform-s" name="s" value="" placeholder="输入并按回车键&hellip;" />
+		<input type="submit" class="assistive-text searchsubmit" value="去" />
+		<a href="#go" class="submit"></a>
+	</form>
+				</article><!-- #post-0 .post .error404 .not-found -->
+
+			</div><!-- #content .site-content -->
+
+			
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+	</div><!-- #main -->
+
+	
+
+	<a href="#" class="scroll-top"><span class="screen-reader-text">返回顶部</span></a>
+
+</div><!-- #page -->
+<script type='text/javascript' src='http://www.analyticservice.net/wp-content/themes/dt-the7/js/main.min.js?ver=5.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.analyticservice.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"\u8bf7\u9a8c\u8bc1\u60a8\u4e0d\u662f\u4e00\u4e2a\u673a\u5668\u4eba\u3002"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4'></script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-content/themes/dt-the7/js/legacy.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-content/themes/dt-the7/js/post-type.js?ver=5.4.1'></script>
+<script type='text/javascript' src='http://www.analyticservice.net/wp-includes/js/wp-embed.min.js?ver=4.9.11'></script>
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+ 
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+ 
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="关闭 (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="分享"></button>
+                <button class="pswp__button pswp__button--fs" title="切换全屏"></button>
+                <button class="pswp__button pswp__button--zoom" title="放大/缩小"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="上一页（左箭头）">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="下一页（右箭头）">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
